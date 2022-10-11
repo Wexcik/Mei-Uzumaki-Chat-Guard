@@ -1,0 +1,23 @@
+{
+  "name": "yashinu-bot",
+  "version": "0.0.1",
+  "description": "Yashinu Chat Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Yashinu",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "dblapi.js": "^2.4.0",
+    "discord-anti-spam": "^2.4.1",
+    "discord.js": "^12.5.1",
+    "moment": "^2.27.0",
+    "moment-duration-format": "^2.3.2",
+    "mongoose": "^5.11.7",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {}
+}
